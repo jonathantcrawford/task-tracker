@@ -1,0 +1,18 @@
+{
+    "app_id": "task-tracker-tutorial-orcbr",
+    "config_version": 20200603,
+    "name": "task-tracker-tutorial",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "security": {},
+    "hosting": {
+        "enabled": false,
+        "app_default_domain": "task-tracker-tutorial-orcbr.mongodbstitch.com"
+    },
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    }
+}
